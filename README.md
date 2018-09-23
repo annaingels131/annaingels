@@ -1,4 +1,4 @@
-# anna-ingels
+# My Portfolio
 
 ## Project setup
 ```

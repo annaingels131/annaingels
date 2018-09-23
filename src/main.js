@@ -6,6 +6,8 @@ import store from "./store";
 import VueFullPage from 'vue-fullpage.js'
 import VueMaterial from 'vue-material'
 import 'vue-material/dist/vue-material.min.css'
+
+
 import "./registerServiceWorker";
 
 Vue.config.productionTip = false;

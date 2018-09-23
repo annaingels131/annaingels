@@ -62,13 +62,14 @@
             <div class="md-layout-item"><img src="../assets/bb.png" alt=""></div>
             <div class="md-layout-item"><img src="../assets/hidden.png" alt=""></div>
             <div class="md-layout-item"><img src="../assets/brit.png" alt=""></div>
+            <div class="md-layout-item"><img src="../assets/god.png" alt=""></div>
           </div>
           <div class="md-layout md-gutter i1">
             <div class="md-layout-item"><img src="../assets/leaf.png" alt=""></div>
             <div class="md-layout-item"><img src="../assets/socks.png" alt=""></div>
             <div class="md-layout-item"><img src="../assets/flower.png" alt=""></div>
             <div class="md-layout-item"><img src="../assets/hey.png" alt=""></div>
-
+            <div class="md-layout-item"><img src="../assets/Lupita.png" alt=""></div>
           </div>
         </div>
     </div>
